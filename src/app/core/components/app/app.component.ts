@@ -66,7 +66,7 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     this.responsiveOptions = [
       {
-        breakpoint: '1199px',
+        breakpoint: '1200px',
         numVisible: 1,
         numScroll: 1,
       },
